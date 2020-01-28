@@ -1,4 +1,4 @@
-# Response to Joshua Blumenstock's article
+# Response to Blumenstock's article
 Andrew Protiva
 01-28-20
 
