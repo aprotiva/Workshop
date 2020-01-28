@@ -1,5 +1,7 @@
 # Response to Blumenstock's article
-Andrew Protiva
+
+Andrew Protiva 
+
 01-28-20
 
 ---
