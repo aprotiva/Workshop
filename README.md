@@ -1,6 +1,6 @@
 # Index of my Work
 
-Andrew Protiva
+Andrew Protiva :sparkles:
 
 ## Informal Responses
 
