@@ -6,7 +6,7 @@ Andrew Protiva :sparkles:
 [Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ## Responses to Readings
-1. Blumenstock
+1. [Blumenstock Response](
 1. 
 
 ## Assignments 
