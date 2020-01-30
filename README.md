@@ -3,9 +3,9 @@
 Andrew Protiva :sparkles:
 
 ## Resources
-[Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-
 [Syllabus](https://tyler-frazier.github.io/evolving_solutions)
+
+[Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 ## Responses to Readings
 1. [Blumenstock Response](https://github.com/aprotiva/Workshop/blob/master/blumenstock_response.md)
 1. [Perkel Response](
