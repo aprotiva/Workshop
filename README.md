@@ -1,6 +1,6 @@
 # Index of my Work
 
-Andrew Protiva :sparkles:
+Andrew Protiva
 
 ## Resources
 [Syllabus](https://tyler-frazier.github.io/evolving_solutions)
