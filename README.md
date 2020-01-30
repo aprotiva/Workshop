@@ -6,9 +6,12 @@ Andrew Protiva
 [Syllabus](https://tyler-frazier.github.io/evolving_solutions)
 
 [Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+[Website](https://aprotiva.github.io/Workshop/)
+
+[Hypothesis](https://web.hypothes.is/)
 ## Responses to Readings
 1. [Blumenstock Response](https://aprotiva.github.io/Workshop/blumenstock_response)
-1. [Website](https://aprotiva.github.io/Workshop/)
 
 ## Assignments 
 ### 1. Annotated Bibliography
