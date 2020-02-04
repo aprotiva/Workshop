@@ -12,7 +12,8 @@ Andrew Protiva
 [Hypothesis](https://web.hypothes.is/)
 ## Responses to Readings
 1. [Blumenstock Response](https://aprotiva.github.io/Workshop/blumenstock_response)
-1.[Jahan Response](https://aprotiva.github.io/Workshop/jahan_response)
+1. [Jahan Response](https://aprotiva.github.io/Workshop/jahan_response)
+1. 
 
 ## Assignments 
 ### 1. Annotated Bibliography
