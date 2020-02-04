@@ -16,7 +16,7 @@ Andrew Protiva
 
 ## Assignments 
 ### 1. Annotated Bibliography
-- Problem Statement: Determine a problem (4 Sources)
+- Problem Statement: Determine a problem (5 Sources)
   - Impacts
   - Significance of Harms
   - Inherent Nature (*looking more specifically at the location*)
