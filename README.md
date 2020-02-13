@@ -17,6 +17,7 @@ Andrew Protiva
 
 ## Assignments 
 ### 1. Annotated Bibliography
+[Annotated Bibliography](https://aprotiva.github.io/Workshop/annotated_bibliography)
 - Problem Statement: Determine a problem (5 Sources)
   - Impacts
   - Significance of Harms
