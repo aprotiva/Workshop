@@ -1,12 +1,10 @@
-# Annotated Bibliography
+# Annotated Bibliography (_WIP_)
 
 Andrew Protiva 
 
 02-24-20
 
 ---
-
-_WIP_
 
 Chukwuma, Adanna, et al. “Challenges and Opportunities in the Continuity of Care for Hypertension: A Mixed-Methods Study Embedded in a Primary Health Care Intervention in Tajikistan.” BMC Health Services Research, vol. 19, no. 1, Dec. 2019, p. N.PAG. EBSCOhost, doi:10.1186/s12913-019-4779-5.
 
