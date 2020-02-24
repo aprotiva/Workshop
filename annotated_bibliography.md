@@ -1,4 +1,4 @@
-# Annotated Bibliography (_WIP_)
+# Annotated Bibliography
 
 Andrew Protiva 
 
