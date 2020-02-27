@@ -27,3 +27,8 @@ Andrew Protiva
   - Inherent Nature (*looking more specifically at the location*)
 - Select Region
 - Dimensions of Human Develpoment
+
+
+Lit Review
+- Instead of sources, determine topics and themes, and make the paper about the topics and themes rather than the sources.
+- Use the sources as evedence, not as main points
