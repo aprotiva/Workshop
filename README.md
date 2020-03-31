@@ -15,6 +15,7 @@ Andrew Protiva
 1. [Jahan Response](https://aprotiva.github.io/Workshop/jahan_response)
 1. [Kitchen Response](https://aprotiva.github.io/Workshop/kitchen_response)
 1. [Stevens Response](https://aprotiva.github.io/Workshop/stevens_response)
+1. [Nieves Response](https://aprotiva.github.io/Workshop/nieves_response)
 
 ## Assignments 
 ### 1. Annotated Bibliography
