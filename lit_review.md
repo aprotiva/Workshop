@@ -1,5 +1,7 @@
 Literature Review
 
+Andrew Protiva
+
 The purpose of this research is to improve upon the use of survey data in combination with gridded population data to generate more effective solutions by specifying, estimating, and validating a covariate analysis as compared to a classic statistical model. 
 
 Decreased health due to both limitations of the supply side of health care and patients own limitations actively acts as a detriment to Tajikistan. These limitations prevent Tajikistan most effectively growing and developing as a country. 
