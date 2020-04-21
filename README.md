@@ -25,6 +25,8 @@ Andrew Protiva
 [Literature Review](https://aprotiva.github.io/Workshop/lit_review)
 ### 3. Methodology Paper
 [Methodology Paper](https://aprotiva.github.io/Workshop/methodology_paper)
+### 4. Essay 2
+[Essay 2][Literature Review](https://aprotiva.github.io/Workshop/essay_2)
 
 
 ## Notes
