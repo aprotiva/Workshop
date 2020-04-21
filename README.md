@@ -24,7 +24,7 @@ Andrew Protiva
 ### 2. Literature Review
 [Literature Review](https://aprotiva.github.io/Workshop/lit_review)
 ### 3. Methodology Paper
-[Methodology Paper](https://aprotiva.github.io/Workshop/methodology_paper.md)
+[Methodology Paper](https://aprotiva.github.io/Workshop/methodology_paper)
 
 
 ## Notes
