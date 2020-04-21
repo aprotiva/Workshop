@@ -16,11 +16,11 @@ By using this data in combination with covariate information, the Bayesian Metho
  
  ![STDomain](STDomain.png)
 
-This generates a precision matrix of form  where (Image Malfunction) is the precision in the spatial domain and (Image Malfunction) in temporal domain. Through this Bayesian Model, the researchers were able to produce continuous maps of the estimated proportion of the population that is under 5 years old at a 1km x 1km grid size in Nigeria. 
+Through this Bayesian Model, the researchers were able to produce continuous maps of the estimated proportion of the population that is under 5 years old at a 1km x 1km grid size in Nigeria. 
 
 Zhong and Xiao use the Bayesian Method in a different way. They use the Bayesian method to conduct information fusing. This is a step implemented in creating an framework for deep learning. The consolidation of different health information sources reduces uncertainty and allows for better understanding of data. Bayesian inference results in a level of fitness for a probability distribution accounting for both observed and unobserved data. 
 
-(Image Malfunction)
+ ![DeepLearning](DeepLearningBayesianPicture.png)
 
 The full process has four steps. Every data source yields a hypothesis, which is used in the function 𝑃(𝐻k | 𝑂i) where Hk is the probability of the type of each entity, and Oi is the actual entity from the data source. The probabilities are combined based on Bayes’ Rule, 𝑃 (𝐻|𝐸) = 𝑃 (𝐻, 𝐸) / 𝑃 (𝐸). Constraints are factored in through decision logic, and a Fused Identity Oi is produced. The Bayesian Method is a small part of the whole conceptual framework for deep learning using eHealth data, but it is important nonetheless. In addition, a Bayesian network is used to create a joint probability model of nodes and edges in order to account for dependencies between variables.
   
