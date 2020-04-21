@@ -12,6 +12,8 @@ The Bayesian Method is used in a variety of contexts, one of which is in a paper
  
 By using this data in combination with covariate information, the Bayesian Method will create a full representation of population density with 1km x 1km grid cells. The Bayesian Method is a geostatistical approach that uses relationships to covariates to generate data with higher precision, while also generating the uncertainty of this data. Every observation is a random function Zu of space u. The random function Zu can have outcomes that relate to a different locations in space based on a function of Euclidean distance. This causes the outcome of Zu to be based on distances to other spaces, and vice versa. In addition, this model is spaciotemporal, meaning it includes time as an aspect of the function, resulting in the random function Z(s, t). This random function determines the conditional probability of population distribution based on the spatial and temporal inputs. By using data from known cluster centroid locations in combination with date and the selected set of covariates, stochastic partial differential equations result in a Bayesian hierarchical spatio-temporal model. The basis representation of the stochastic partial differential equations is (Image Malfuntion, with  (Image Malfuntion), a product of the spatial and temporal basis function. 
 
+ ![SPDE](SPDE.png)
+
 (Image Malfunction)
 
 This generates a precision matrix of form  where (Image Malfunction) is the precision in the spatial domain and (Image Malfunction) in temporal domain. Through this Bayesian Model, the researchers were able to produce continuous maps of the estimated proportion of the population that is under 5 years old at a 1km x 1km grid size in Nigeria. 
