@@ -21,8 +21,10 @@ Andrew Protiva
 ## Assignments 
 ### 1. Annotated Bibliography
 [Annotated Bibliography](https://aprotiva.github.io/Workshop/annotated_bibliography)
-### 1. Literature Review
+### 2. Literature Review
 [Literature Review](https://aprotiva.github.io/Workshop/lit_review)
+### 3. Methodology Paper
+[Methodology Paper](https://aprotiva.github.io/Workshop/methodology_paper.md)
 
 
 ## Notes
