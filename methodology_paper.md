@@ -22,7 +22,7 @@ Zhong and Xiao use the Bayesian Method in a different way. They use the Bayesian
 
  ![DeepLearning](DeepLearningBayesianPicture.png)
 
-The full process has four steps. Every data source yields a hypothesis, which is used in the function 𝑃(𝐻k /| 𝑂i) where Hk is the probability of the type of each entity, and Oi is the actual entity from the data source. The probabilities are combined based on Bayes’ Rule, 𝑃 (𝐻|/𝐸) = 𝑃 (𝐻, 𝐸) / 𝑃 (𝐸). Constraints are factored in through decision logic, and a Fused Identity Oi is produced. The Bayesian Method is a small part of the whole conceptual framework for deep learning using eHealth data, but it is important nonetheless. In addition, a Bayesian network is used to create a joint probability model of nodes and edges in order to account for dependencies between variables.
+The full process has four steps. Every data source yields a hypothesis, which is used in the function 𝑃(𝐻k /| 𝑂i) where Hk is the probability of the type of each entity, and Oi is the actual entity from the data source. The probabilities are combined based on Bayes’ Rule, 𝑃 (𝐻/|𝐸) = 𝑃 (𝐻, 𝐸) / 𝑃 (𝐸). Constraints are factored in through decision logic, and a Fused Identity Oi is produced. The Bayesian Method is a small part of the whole conceptual framework for deep learning using eHealth data, but it is important nonetheless. In addition, a Bayesian network is used to create a joint probability model of nodes and edges in order to account for dependencies between variables.
   
  (Image Malfunction)
   
